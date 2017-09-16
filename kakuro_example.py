@@ -1,4 +1,4 @@
-from combinations import field_shared,printout,get_shared,save_variable,get_combinations
+from combinations import field_shared,printout
 
 """ This file is used to show the basic functionality of combinations.py"""
 
